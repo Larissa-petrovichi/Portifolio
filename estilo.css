@@ -1,0 +1,27 @@
+
+/* ANIMAÇÃO DE ENTRADA */
+
+.animar {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.animar.visivel {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.carousel-item {
+            height: 95vh;
+        }
+
+        .carousel-item img {
+            height: 100%;
+            object-fit: cover;
+        }
+.project-img{
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+       }
