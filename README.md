@@ -15,7 +15,7 @@ O site foi desenvolvido para reunir minhas informações de forma organizada, pe
 
 
 ## Link do site publicado
-[Projeto - Meu portfólio](https://larissa-petrovichi.github.io/Portifolio/)
+https://larissa-petrovichi.github.io/Portfolio/
 
 ## Funcionamento do projeto
 O portfólio possui uma navegação dividida em seções:
